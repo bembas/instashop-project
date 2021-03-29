@@ -1,0 +1,7 @@
+[submodule "parse-dashboard"]
+	path = parse-dashboard
+	url = https://github.com/parse-community/parse-dashboard
+
+[submodule "parse-server-example"]
+	path = parse-server-example
+	url = https://github.com/parse-community/parse-server-example
