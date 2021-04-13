@@ -12,7 +12,7 @@
         }
     },
     "/dashboard/*": {
-        "target": "http://localhost:4040/login",
+        "target": "http://localhost:1337",
         "changeOrigin": true
     }
 }
