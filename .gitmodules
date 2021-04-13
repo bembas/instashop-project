@@ -1,7 +1,9 @@
 [submodule "parse-dashboard"]
 	path = parse-dashboard
 	url = https://github.com/parse-community/parse-dashboard
+	update = merge # <-- this is what you need to add
 
 [submodule "parse-server-example"]
 	path = parse-server-example
 	url = https://github.com/parse-community/parse-server-example
+	update = merge # <-- this is what you need to add
