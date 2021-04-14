@@ -5,11 +5,7 @@
     },
     "/login/*": {
         "target": "http://localhost:1337",
-        "changeOrigin": true,
-        "secure": false,
-        "pathRewrite": {
-            "^/login": "/login"
-        }
+        "changeOrigin": true
     },
     "/dashboard/*": {
         "target": "http://localhost:1337",
